@@ -26,8 +26,9 @@ img {
 
 .container {
     max-width: 1320px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0 1.2rem;
+  
 }
 
 
@@ -172,9 +173,9 @@ header {
 
 .design-content {
     margin: 2rem 0;
-    display: grid;
-    grid-template-columns: repeat(3, lfr);
-    gap: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
 }
 
 .design-item {
