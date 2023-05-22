@@ -284,6 +284,11 @@ header {
     padding: 0.3rem 0.6rem;
 }
 
+.blog-img span:hover {
+    color: red;
+    transition: all .5s ease;
+}
+
 .blog-text {
     margin: 2.2rem 0;
     padding: 0 1rem;
