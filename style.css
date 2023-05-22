@@ -222,6 +222,11 @@ header {
     color: #fff;
 }
 
+.design-img span:first-of-type:hover {
+    color: red;
+    transition: all .5s ease;
+}
+
 .design-img span:last-of-type {
     position: absolute;
     z-index: 1;
