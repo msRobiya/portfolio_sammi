@@ -35,6 +35,25 @@ img {
 }
 
 
+/* my image  */
+
+.my_img {
+    /* height: 100px; */
+    width: auto;
+    margin-left: 28%;
+    /* border: 62px solid rgba(242, 239, 239, 0.984); */
+    border: 62px solid rgba(252, 249, 249, 0.984);
+    /* border: 62px solid rgba(250, 250, 250, 0.984); */
+    margin: 15px auto;
+    border-radius: 10px;
+}
+
+.my_img:hover {
+    /*  border: 62px solid rgba(230, 230, 230, 0.984); */
+    border: 62px solid rgba(242, 239, 239, 0.984);
+}
+
+
 /* header styling start */
 
 header {
